@@ -7,7 +7,7 @@
 //
 
 #import "SJZTools.h"
-
+//测试组件化demo
 @implementation SJZTools
 
 @end
